@@ -1,0 +1,2 @@
+Os arquivos "cadastro.html", "TerraDaEsperanca.html" e "terradaesperanca.jpeg" devem ser instalados e estarem na mesma pasta 
+para funcionarem corretamente durante a execução.
