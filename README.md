@@ -48,21 +48,21 @@ O módulo escolhido para o protótipo funcional é o de **Gestão de Acolhidos**
 
 | ID | Descrição | Status |
 |----|-----------|--------|
-| RF01 | Cadastro de usuários (voluntários) com perfil de acesso | ✅ Implementado |
-| RF01.1 | Cadastro de acolhidos com dados completos | ✅ Implementado |
-| RF01.2 | Cadastro de empresas doadoras | 🔲 Planejado |
-| RF01.3 | Cadastro de empresas parceiras e oportunidades de emprego | 🔲 Planejado |
-| RF02 | Registro e controle de recursos em estoque | 🔲 Planejado |
-| RF03 | Registro de informações contábeis e financeiras | 🔲 Planejado |
+| RF01 | Cadastro de usuários (voluntários) com perfil de acesso | Implementado |
+| RF01.1 | Cadastro de acolhidos com dados completos | Implementado |
+| RF01.2 | Cadastro de empresas doadoras | Planejado |
+| RF01.3 | Cadastro de empresas parceiras e oportunidades de emprego | Planejado |
+| RF02 | Registro e controle de recursos em estoque | Planejado |
+| RF03 | Registro de informações contábeis e financeiras | Planejado |
 
 ### Requisitos Não Funcionais
 
 | ID | Descrição | Status |
 |----|-----------|--------|
-| RNF01 | Interface intuitiva para usuários com baixo letramento digital | ✅ Considerado no design |
+| RNF01 | Interface intuitiva para usuários com baixo letramento digital | Considerado no design |
 | RNF02 | Disponibilidade 24/7 | 🔲 Depende de infraestrutura futura |
-| RNF03 | Segurança com hash de senha (bcrypt) e controle de perfis | ✅ Implementado na modelagem |
-| RNF04 | Escalabilidade — arquitetura preparada para novas funcionalidades | ✅ Estrutura MVC modular |
+| RNF03 | Segurança com hash de senha (bcrypt) e controle de perfis | Implementado na modelagem |
+| RNF04 | Escalabilidade — arquitetura preparada para novas funcionalidades | Estrutura MVC modular |
 
 ---
 
